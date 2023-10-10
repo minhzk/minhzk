@@ -1,6 +1,6 @@
 # Hello, I'm Minh Nguyen 👋
 
-I'm a passionate software developer based in Vietnam 🇻🇳 with a strong background in software development. My journey in the world of coding began when I was in the 12th grade. I was an avid gamer and curious about how to create a game. That's when I started exploring the fundamentals of programming at F8 Fullstack and embarked on a journey to learn the basics required to create a simple website using only HTML and CSS.
+I am a passionate software developer from Vietnam 🇻🇳 with a strong foundation in software development. My journey into the world of coding began when I was in the 12th grade. I was an avid gamer, and it was my passion for gaming that sparked my curiosity about how to create a game. That's when I started exploring the fundamentals of programming at F8 Fullstack and embarked on a journey to learn the essential skills required to create a simple website using only HTML and CSS.
 
 Since then, I've been on an exciting learning adventure, constantly expanding my skills and knowledge.
 ## 👨‍💻 About Me

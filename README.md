@@ -16,7 +16,7 @@ Since then, I've been on an exciting learning adventure, constantly expanding my
 
 
 ## 📫 Contact
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nbm.nguyenbinhminh)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nguy%E1%BB%85n-b%C3%ACnh-minh-98a777294/) [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:nbinhminh158@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/nbm.nguyenbinhminh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nguy%E1%BB%85n-b%C3%ACnh-minh-98a777294/) [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:nbinhminh158@gmail.com)
 
 Let's connect and build amazing things together! 💻
 
